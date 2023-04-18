@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SupplementsApp",
-    "slug": "SupplementsApp",
+    "name": "Orgs",
+    "slug": "AwesomeProject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
